@@ -12,8 +12,8 @@
 
 	<url>https://github.com/alibaba/fastjson</url>
 	<inceptionYear>2012</inceptionYear>
-
 	<properties>
+		<maven.test.skip>true</maven.test.skip>
 		<junit.version>4.12</junit.version>
 		<gpg.skip>true</gpg.skip>
 		<javadoc.skip>true</javadoc.skip>
